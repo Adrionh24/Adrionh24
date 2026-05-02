@@ -54,7 +54,7 @@ I’m building hands-on experience with Active Directory, networking, and real-w
 <h2>🎓 Education</h2>
 
 <b>Passaic County Community College</b>  
-Network Administrator (Coursework)
+Computer Information Technology - Network Administrator
 
 <b>Passaic County Technical Institute</b>  
 High School Diploma
